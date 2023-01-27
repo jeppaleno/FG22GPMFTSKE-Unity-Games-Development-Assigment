@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea03ae3f8df7c994f9dae62fa1fe5f36, type: 3}
+  m_Name: ElfBow
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 556fb3c4775657d4d867f37ee74ff46f, type: 3}
+  itemName: Elf Bow
+  modelPrefab: {fileID: 7187455618724288987, guid: aa6126a1dd85c99459ab591ad163a1b7, type: 3}
+  isUnarmed: 0
+  right_hand_Idle: 
+  left_hand_Idle: 
+  th_idle: 
+  OH_Light_Attack_1: 
+  OH_Light_Attack_2: 
+  OH_Heavy_Attack_1: 
+  th_light_attack_01: 
+  th_light_attack_02: 
+  baseStamina: 0
+  lightAttackMultiplier: 0
+  heavyAttackMultiplier: 0
